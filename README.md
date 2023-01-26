@@ -1,13 +1,11 @@
 ### Welcome! About Artificial Intelligence
 
 
-
-
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dark)">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmarchetti&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img align="center" alt="Marchetti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marchetti-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
