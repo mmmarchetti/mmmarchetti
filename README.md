@@ -1,6 +1,6 @@
 ## Welcome! 
 ### About Artificial Intelligence
-Loving to learn and work with artificial intelligence. Creating solutions using AI.
+Creating solutions using AI
 
 
 <div style="display: inline_block"><br>
