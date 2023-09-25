@@ -1,7 +1,7 @@
 ## Welcome! 
 
 ### About Me
-Creating artificial intelligence.
+Creating Artificial Intelligence.
 
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mmmarchetti/)
