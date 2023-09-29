@@ -1,5 +1,5 @@
 ## Welcome! 
-![download](https://github.com/mmmarchetti/mmmarchetti/assets/42682612/285eed25-72a7-4184-a071-e13099cfcad3)
+![1691760234806](https://github.com/mmmarchetti/mmmarchetti/assets/42682612/cb7dc506-4f83-4c12-ab53-e106d7b32353)
 
 ### About Me
 Creating Artificial Intelligence.
