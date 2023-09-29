@@ -1,5 +1,6 @@
 ## Welcome! 
-https://media.licdn.com/dms/image/D4D16AQGT20azi0IKiA/profile-displaybackgroundimage-shrink_350_1400/0/1691760234806?e=1701302400&v=beta&t=fkhp39KXoIZgYtL2XLj-KnSaiqqkG6rpCjBzrOpp5vU
+![download](https://github.com/mmmarchetti/mmmarchetti/assets/42682612/285eed25-72a7-4184-a071-e13099cfcad3)
+
 ### About Me
 Creating Artificial Intelligence.
 
